@@ -15,7 +15,7 @@
 
 ## Languages and Tools:
 
-<img width="50px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/><img width="70px" src="https://img.icons8.com/color/48/000000/html-5.png"/>
+<img width="50px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/><img width="50px" src="https://img.icons8.com/color/48/000000/html-5.png"/>
 <img width="50px" src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img width="50px" src="https://img.icons8.com/color/48/000000/javascript-logo-1.png"/>
 <img width="50px" src="https://img.icons8.com/officel/50/000000/php-logo.png"/>
