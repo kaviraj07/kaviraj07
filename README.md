@@ -30,4 +30,4 @@ style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
 
 
 
-![Kaviraj's github stats](https://github-readme-stats.vercel.app/api?username=kaviraj07&theme=radical&show_icons=true)
+![Kaviraj's github stats](https://github-readme-stats.vercel.app/api?username=kaviraj07&theme=buefy&show_icons=true&count_private=true)
