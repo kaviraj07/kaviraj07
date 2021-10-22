@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Python
 - 🔭 I'm looking forward to learn Machine Learning/AI
-- ⚡ My portfolio ( incomplete 🤣 ): [Gosaye Kaviraj](https://kaviraj07.github.io/Portfolio/)
+- ⚡ My portfolio: [Gosaye Kaviraj](https://kaviraj07.github.io/Gosaye-Kaviraj/)
 
 ## Connect with me:
 
