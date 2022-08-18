@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaviraj Gosaye</h1>
 <h3 align="center">A Software Developer from Mauritius</h3>
-<div style="align:center"><img width= "500" src= './keyboard.gif'></div>
+<p align="center"><img width= "500" src= './keyboard.gif'></p>
 
 <p align="left"> <a href="https://twitter.com/gosayekaviraj" target="blank"><img src="https://img.shields.io/twitter/follow/gosayekaviraj?logo=twitter&style=for-the-badge" alt="gosayekaviraj" /></a> </p>
 
