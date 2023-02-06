@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence more specifically Keras and TensorFlow**
 
-- 👨‍💻 All of my projects are available on my [Personal Website](https://kaviraj07.github.io/Gosaye-Kaviraj/):arrow_forward:
+- 👨‍💻 All of my projects are available on my [Personal Website](https://kaviraj07.github.io):arrow_forward:
 
 - 💬 Ask me about **Java, Flutter and Keras**
 
