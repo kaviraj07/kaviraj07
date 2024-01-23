@@ -52,5 +52,5 @@
 <a style="text-decoration: none" href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
 <br>
-<p align="center"><img style="height:200px; padding-right:50px" src="https://github-readme-streak-stats.herokuapp.com/?user=kaviraj07&theme=chartreuse-dark&" alt="kaviraj07" />
+<p align="center"><img style="height:200px; padding-right:10px" src="https://github-readme-streak-stats.herokuapp.com/?user=kaviraj07&theme=chartreuse-dark&" alt="kaviraj07" />
 <img style="height:200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaviraj07&theme=chartreuse-dark&show_icons=true&locale=en&layout=compact" alt="kaviraj07" /></p>
