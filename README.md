@@ -1,56 +1,81 @@
-<h1 align="center">Hi 👋, I'm Kaviraj Gosaye</h1>
-<h3 align="center"> I'm passionate about Artificial Intelligence and Im currently specializing in Computer Vision and Robotics.</h3>
+<img src='github-banner.gif'>
 
-<h3>Summary</h3>
+## :eyeglasses: About Me
 
-- 🔭 I’m currently working on a **Machine Learning project**
-
-- 🌱 I’m currently learning **Artificial Intelligence**
-
-- 👨‍💻 All of my projects are available on my [Personal Website](https://kaviraj07.github.io) :arrow_forward:
-
-- 💬 Ask me about **AI, Python, Keras and Java**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/gosayekaviraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gosayekaviraj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kaviraj-gosaye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaviraj-gosaye" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14573614" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14573614" height="30" width="40" /></a>
-<a href="https://fb.com/kamesh.gosaye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kamesh.gosaye" height="30" width="40" /></a>
-<a href="https://instagram.com/kaviraj_0078" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaviraj_0078" height="30" width="40" /></a>
+<p>
+I am a student at Queen Mary University of London studying a Master's in Artificial Intelligence with a focus on Vision and Robotics.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-
-<a style="text-decoration: none" href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a style="text-decoration: none" href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a style="text-decoration: none" href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-<a style="text-decoration: none" href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-<a style="text-decoration: none" href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a style="text-decoration: none" href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-<a style="text-decoration: none" href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
-<a style="text-decoration: none" href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a style="text-decoration: none" href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
-<a style="text-decoration: none" href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a style="text-decoration: none" href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a style="text-decoration: none" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a style="text-decoration: none" href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-<a style="text-decoration: none" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a style="text-decoration: none" href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-<a style="text-decoration: none" href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a style="text-decoration: none" href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a style="text-decoration: none" href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-<a style="text-decoration: none" href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-<a style="text-decoration: none" href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-<a style="text-decoration: none" href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-<a style="text-decoration: none" href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-<a style="text-decoration: none" href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-<a style="text-decoration: none" href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
-<a style="text-decoration: none" href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-<a style="text-decoration: none" href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a style="text-decoration: none" href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+<p>
+I am a currently working on a Computer Vision project as well as delving into MLOps and NLP.
 </p>
-<br>
+
+<p>
+Ask me about AI/ML, Python, PyTorch, Keras and Computer Vision.
+<p>
+
+<p>
+Find more about my projects and interests on my  <a href='https://kaviraj07.github.io'>PORTFOLIO</a> <br>P.S. It will be updated soon...
+</p> 
+
+<p>
+I am fluent in English <img src='https://hatscripts.github.io/circle-flags/flags/uk.svg' width="10"> , French <img src='https://hatscripts.github.io/circle-flags/flags/fr.svg' width="10"> , Hindi <img src='https://hatscripts.github.io/circle-flags/flags/in.svg' width="10"> and Mauritian Creole <img src='https://hatscripts.github.io/circle-flags/flags/mu.svg' width="10">
+</p>
+
+
+## :globe_with_meridians: Connect With Me
+
+![Static Badge](https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin&logoColor=0077B5&logoSize=amd&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkavirajgosaye%2F)
+&nbsp;
+![Static Badge](https://img.shields.io/badge/X/Twitter-black?style=flat&logo=X&logoSize=amd&link=https%3A%2F%2Ftwitter.com%2Fgosayekaviraj)
+&nbsp;
+![Static Badge](https://img.shields.io/badge/Stack_Overflow-black?style=flat&logo=stackoverflow&logoSize=amd&link=https%3A%2F%2Fstackoverflow.com%2Fusers%2F14573614)
+&nbsp;
+![Static Badge](https://img.shields.io/badge/Google_Scholar-black?style=flat&logo=google%20scholar&logoSize=amd&link=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3D5TbPJhwAAAAJ%26hl%3Den)
+
+## :hammer_and_wrench: Current Languages and Tools
+
+![Static Badge](https://img.shields.io/badge/Python-black?style=flat&logo=Python&logoSize=amd)
+![Static Badge](https://img.shields.io/badge/PyTorch-black?style=flat&logo=Pytorch&logoSize=amd)
+![Static Badge](https://img.shields.io/badge/TensorFlow-black?style=flat&logo=TensorFlow&logoSize=amd)
+![Static Badge](https://img.shields.io/badge/ROS-black?style=flat&logo=ROS&logoSize=amd)
+![Static Badge](https://img.shields.io/badge/Scikit--learn-black?style=flat&logo=scikit-learn&logoSize=amd)
+![Static Badge](https://img.shields.io/badge/OpenCV-black?style=flat&logo=OpenCV&logoSize=amd)
+![Static Badge](https://img.shields.io/badge/Flask-black?style=flat&logo=Flask&logoSize=amd)
+![Static Badge](https://img.shields.io/badge/MLflow-black?style=flat&logo=MLflow&logoSize=amd)
+![Static Badge](https://img.shields.io/badge/Git-black?style=flat&logo=Git&logoSize=amd)
+
+## :books: Learning / Improvement Interests
+![Static Badge](https://img.shields.io/badge/Docker-black?style=flat&logo=Docker&logoSize=amd)
+![Static Badge](https://img.shields.io/badge/Kubernetes-black?style=flat&logo=Kubernetes&logoSize=amd)
+![Static Badge](https://img.shields.io/badge/LangChain-black?style=flat&logo=LangChain&logoSize=amd)
+![Static Badge](https://img.shields.io/badge/CUDA-black?style=flat&logo=nvidia&logoSize=amd)
+
+
+## :screwdriver: Other  Languages and Tools
+![Static Badge](https://img.shields.io/badge/Java-black?style=flat&logo=Java&logoSize=amd)
+![Static Badge](https://img.shields.io/badge/C%23-black?style=flat&logo=C%23&logoSize=amd)
+![Static Badge](https://img.shields.io/badge/HTML-black?style=flat&logo=HTML5&logoSize=amd)
+![Static Badge](https://img.shields.io/badge/CSS-black?style=flat&logo=CSS3&logoColor=%231572B6&logoSize=amd)
+![Static Badge](https://img.shields.io/badge/JavaScript-black?style=flat&logo=JavaScript&logoSize=amd)
+![Static Badge](https://img.shields.io/badge/PHP-black?style=flat&logo=PHP&logoSize=amd)
+![Static Badge](https://img.shields.io/badge/Flutter-black?style=flat&logo=Flutter&logoColor=%2302569B&logoSize=amd)
+![Static Badge](https://img.shields.io/badge/Android-black?style=flat&logo=Android&logoSize=amd)
+![Static Badge](https://img.shields.io/badge/Firebase-black?style=flat&logo=Firebase&logoColor=%23DD2C00&logoSize=amd)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-black?style=flat&logo=PostgreSQL&logoSize=amd)
+![Static Badge](https://img.shields.io/badge/MySQL-black?style=flat&logo=MySQL&logoSize=amd)
+![Static Badge](https://img.shields.io/badge/GCP-black?style=flat&logo=googlecloud&logoSize=amd)
+![Static Badge](https://img.shields.io/badge/Selenium-black?style=flat&logo=Selenium&logoSize=amd)
+![Static Badge](https://img.shields.io/badge/.NET-black?style=flat&logo=.NET&logoColor=%23512BD4&logoSize=amd)
+
+
+
+
+
+## :chart_with_upwards_trend: Analytics:  ![](https://komarev.com/ghpvc/?username=kaviraj07)
+
 <p align="center"><img style="height:150px; width:400px" src="https://github-readme-streak-stats.herokuapp.com/?user=kaviraj07&theme=chartreuse-dark&" alt="kaviraj07" />
-<img style="height:150px; width:400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaviraj07&theme=chartreuse-dark&show_icons=true&locale=en&layout=compact" alt="kaviraj07" /></p>
+<img style="height:150px; width:400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaviraj07&theme=chartreuse-dark&show_icons=true&locale=en&layout=compact" alt="kaviraj07" />
+</p>
+
+
