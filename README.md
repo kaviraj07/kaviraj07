@@ -25,13 +25,13 @@ I am fluent in English <img src='https://hatscripts.github.io/circle-flags/flags
 
 ## :globe_with_meridians: Connect With Me
 
-![Static Badge](https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin&logoColor=0077B5&logoSize=auto&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkavirajgosaye%2F)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin&logoSize=auto&logoColor=0077B5)](https://www.linkedin.com/in/kavirajgosaye/)
 &nbsp;
-![Static Badge](https://img.shields.io/badge/X/Twitter-black?style=flat&logo=X&logoSize=auto&link=https%3A%2F%2Ftwitter.com%2Fgosayekaviraj)
+[![Static Badge](https://img.shields.io/badge/X/Twitter-black?style=flat&logo=X&logoSize=auto)](https://twitter.com/gosayekaviraj)
 &nbsp;
-![Static Badge](https://img.shields.io/badge/Stack_Overflow-black?style=flat&logo=stackoverflow&logoSize=auto&link=https%3A%2F%2Fstackoverflow.com%2Fusers%2F14573614)
+[![Static Badge](https://img.shields.io/badge/Stack_Overflow-black?style=flat&logo=stackoverflow&logoSize=auto)](https://stackoverflow.com/users/14573614)
 &nbsp;
-![Static Badge](https://img.shields.io/badge/Google_Scholar-black?style=flat&logo=google%20scholar&logoSize=auto&link=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3D5TbPJhwAAAAJ%26hl%3Den)
+[![Static Badge](https://img.shields.io/badge/Google_Scholar-black?style=flat&logo=google%20scholar&logoSize=auto)](https://scholar.google.com/citations?user=5TbPJhwAAAAJ&hl=en)
 
 ## :hammer_and_wrench: Current Languages and Tools
 
