@@ -32,6 +32,8 @@ I am fluent in English <img src='https://hatscripts.github.io/circle-flags/flags
 [![Static Badge](https://img.shields.io/badge/Stack_Overflow-black?style=flat&logo=stackoverflow&logoSize=auto)](https://stackoverflow.com/users/14573614)
 &nbsp;
 [![Static Badge](https://img.shields.io/badge/Google_Scholar-black?style=flat&logo=google%20scholar&logoSize=auto)](https://scholar.google.com/citations?user=5TbPJhwAAAAJ&hl=en)
+&nbsp;
+[![Static Badge](https://img.shields.io/badge/YouTube-black?style=flat&logo=youtube&logoSize=auto&logoColor=FF0000)](https://www.youtube.com/@kavirajgosaye)
 
 ## :hammer_and_wrench: Current Languages and Tools
 
