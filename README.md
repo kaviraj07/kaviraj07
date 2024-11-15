@@ -76,7 +76,7 @@ I am fluent in English <img src='https://hatscripts.github.io/circle-flags/flags
 
 ## :chart_with_upwards_trend: Analytics:  ![](https://komarev.com/ghpvc/?username=kaviraj07)
 
-<p align="center"><img style="height:150px; width:400px" src="https://github-readme-streak-stats.herokuapp.com/?user=kaviraj07&theme=chartreuse-dark&" alt="kaviraj07" />
+<p align="center"><img style="height:150px; width:400px" src="https://github-readme-streak-stats-plum.vercel.app/?user=kaviraj07&theme=chartreuse-dark&" alt="kaviraj07" />
 <img style="height:150px; width:400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaviraj07&theme=chartreuse-dark&show_icons=true&locale=en&layout=compact" alt="kaviraj07" />
 </p>
 
