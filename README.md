@@ -3,7 +3,7 @@
 ## :eyeglasses: About Me
 
 <p>
-I am a student at Queen Mary University of London studying a Master's in Artificial Intelligence with a focus on Vision and Robotics.
+I am a Master’s graduate in Artificial Intelligence with a specialization in Vision and Robotics from Queen Mary University of London.
 </p>
 
 <p>
@@ -15,7 +15,7 @@ Ask me about AI/ML, Python, PyTorch, Keras and Computer Vision.
 <p>
 
 <p>
-Find more about my projects and interests on my  <a href='https://kaviraj07.github.io'>PORTFOLIO</a> <br>P.S. It will be updated soon...
+Find more about my projects and interests on my  <a href='https://kaviraj07.github.io'>PORTFOLIO</a>
 </p> 
 
 <p>
